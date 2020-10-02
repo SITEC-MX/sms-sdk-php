@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{A0786B88-2ADB-4C21-ABE8-AA2D79766269}") = "SMS-SDK-PHP", "SMS-SDK-PHP.phpproj", "{407A1A62-0F67-4A25-8ECC-EE859AF611CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{407A1A62-0F67-4A25-8ECC-EE859AF611CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{407A1A62-0F67-4A25-8ECC-EE859AF611CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {591AA0E4-04DC-42D4-9412-A98EEABD22AC}
+	EndGlobalSection
+EndGlobal

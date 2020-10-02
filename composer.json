@@ -1,0 +1,19 @@
+{
+    "name": "sitec/sms",
+    "description": "SDK para PHP del sistema de envio de SMS de SiTEC",
+    "type": "project",
+    "authors": [
+        {
+            "name": "SiTEC",
+            "email": "contacto@sistemasespecializados.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "Mpsoft\\SMS\\": "src/"
+        }
+    },
+    "require": {
+    }
+}
